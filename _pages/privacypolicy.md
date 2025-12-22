@@ -5,56 +5,151 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+December 22, 2025
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
 
-<br>
-
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 1. Information We Collect
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+### 1.1 Information You Provide Voluntarily
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+We only collect personal information when you choose to provide it, such as:
+
+- Contact information (e.g., email address) when you contact us for support or feedback
+
+We do not require account registration to use the core features of the App unless explicitly stated in the App.
+
+### 1.2 Purchase Information
+
+If you purchase a subscription, payments are processed by our third‑party payment provider, RevenueCat. We do not collect or store your full payment details.
+
+We may receive limited information related to your purchase, such as:
+
+- Subscription status (active, expired, cancelled)
+- Product identifiers
+- Transaction or receipt identifiers
+
+This information is used solely to provide subscription functionality and manage entitlements.
+
+### 1.3 Automatically Collected Information
+
+#### Crash and Diagnostics Data
+
+With your permission, we use Firebase Crashlytics to collect crash reports and diagnostic data to improve app stability and performance.
+
+This data may include:
+
+- App state at the time of a crash
+- Device type, operating system version, and manufacturer
+- Anonymous installation identifiers
+- Crash logs and stack traces
+
+Crash reports are not used to identify individual users.
+
+You can enable or disable crash reporting at any time through the App settings or your device permissions.
+
+We do **not** use advertising identifiers and do **not** collect data for ad targeting purposes.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 2. How We Use Your Information
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+We use the collected information only for the following purposes:
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+- To provide and maintain the App
+- To process and manage subscriptions
+- To respond to user inquiries and support requests
+- To detect, prevent, and fix technical issues
+- To improve app stability, performance, and reliability
 
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+We do not sell your personal data.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 3. Sharing of Information
+
+We only share your information in the following limited circumstances:
+
+### 3.1 Service Providers
+
+We share information with trusted third‑party service providers that help us operate the App, such as:
+
+- Subscription and purchase management
+- Crash reporting and diagnostics
+
+These providers process data only on our behalf and only for the purposes described in this Privacy Policy.
+
+### 3.2 Legal Requirements
+
+We may disclose information if required to do so by law or if we reasonably believe such action is necessary to:
+
+- Comply with a legal obligation
+- Protect the rights or safety of users or others
+- Prevent fraud or abuse
+
+<br>
+
+## 4. Data Retention
+
+We retain personal information only for as long as necessary to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+Crash and diagnostic data is retained for a limited period and used solely for internal analysis and app improvement.
+
+<br>
+
+## 5. International Data Transfers
+
+Your information may be processed and stored on servers located outside your country of residence. We take reasonable steps to ensure that your data is handled securely and in accordance with this Privacy Policy, regardless of where it is processed.
+
+<br>
+
+## 6. Your Rights and Choices
+
+Depending on your location, you may have certain rights regarding your personal information, including:
+
+- The right to access the personal data we hold about you
+- The right to request correction or deletion of your data
+- The right to withdraw consent where processing is based on consent
+
+You can exercise these rights by contacting us using the details below. We will respond within a reasonable timeframe.
+
+<br>
+
+## 7. Security
+
+We use commercially reasonable technical and organizational measures to protect your information. However, no method of electronic storage or transmission is completely secure, and we cannot guarantee absolute security.
+
+<br>
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted within the App or on the app store listing, and the "Last updated" date will be revised accordingly.
+
+Your continued use of the App after changes become effective constitutes acceptance of the updated Privacy Policy.
+
+<br>
+
+## 9. Contact Us
+
+If you have any questions about this Privacy Policy or our data practices, you can contact us at:
+<junhwankim.work@gmail.com>
+
+<br>
+
+## 10. Apple App Store Compliance Notice
+
+This App complies with Apple App Store Review Guidelines regarding user privacy and data usage:
+
+- We do not collect data for advertising or tracking purposes.
+- We do not link collected data with third-party data for tracking.
+- Any data collected is limited to what is necessary for app functionality, subscriptions, customer support, and app stability.
+- We do not use data obtained from the App to build user profiles for advertising or resale.
+- Users may request deletion of their personal data by contacting us.
+
+If App Tracking Transparency (ATT) consent is required in the future due to feature changes, we will request permission explicitly and update this Privacy Policy accordingly.
