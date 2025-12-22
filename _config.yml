@@ -13,7 +13,8 @@ presskit_download_link: # Enter a link to downloadable file or (e.g. public Drop
 app_icon: assets/app_icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: HabitJar # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Write a short tagline for your app.
+app_tagline: Change your life one jar at a time.
+app_description: Watch your progress accumulate as your habits fill the jar.
 
 enable_smart_app_banner: false # Set to true to show a smart app banner at top of page on mobile devices.
 
