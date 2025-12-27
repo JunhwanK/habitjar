@@ -35,7 +35,18 @@
               ></video>
             </div>
 
-            <img class="iphoneScreen hidden" src="" alt="" />
+            <!-- <img class="iphoneScreen hidden" src="" alt="" /> -->
+            <div class="iphoneScreen">
+              <div class="track">
+                {% for file in site.static_files %} {% if file.path contains
+                'assets/screenshot/' %}
+                <img
+                  src="{{ site.github.baseurl }}{{ file.path }}"
+                  alt="App screenshot"
+                />
+                {% endif %} {% endfor %}
+              </div>
+            </div>
 
             {% include screencontent.html %}
           </div>
