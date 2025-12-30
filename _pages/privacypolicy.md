@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-December 22, 2025
+December 30, 2025
 
 # Privacy Policy
 
@@ -27,9 +27,9 @@ We do not require account registration to use the core features of the App unles
 
 ### 1.2 Purchase Information
 
-If you purchase a subscription, payments are processed by our third‑party payment provider, RevenueCat. We do not collect or store your full payment details.
+Any payments are processed directly by the applicable app marketplace provider (such as the Apple App Store or Google Play Store). We do not collect or store your payment method details, such as credit card numbers or billing information.
 
-We may receive limited information related to your purchase, such as:
+We use RevenueCat, a third‑party subscription management service, to manage and validate any subscription or payment status. Through RevenueCat, we may receive limited information related to your purchase, including:
 
 - Subscription status (active, expired, cancelled)
 - Product identifiers
@@ -41,7 +41,7 @@ This information is used solely to provide subscription functionality and manage
 
 #### Crash and Diagnostics Data
 
-With your permission, we use Firebase Crashlytics to collect crash reports and diagnostic data to improve app stability and performance.
+We use Firebase Crashlytics to collect crash reports and diagnostic data to improve app stability and performance.
 
 This data may include:
 
@@ -52,9 +52,19 @@ This data may include:
 
 Crash reports are not used to identify individual users.
 
-You can enable or disable crash reporting at any time through the App settings or your device permissions.
-
 We do **not** use advertising identifiers and do **not** collect data for ad targeting purposes.
+
+#### Usage Analytics (Theme and Feature Usage)
+
+We use Firebase Analytics to collect limited, non-personal usage data about how the App is used. This may include:
+
+- Which themes or visual styles are selected or used
+- General feature interactions related to themes
+- Aggregated usage patterns and event counts
+
+This data is collected in an aggregated and anonymized manner and does not identify individual users.
+
+We use this information solely to understand the popularity of the themes and services we provide, improve service quality, and guide future feature development. Firebase Analytics data is not used for advertising, profiling, or cross-app tracking.
 
 <br>
 
@@ -67,6 +77,7 @@ We use the collected information only for the following purposes:
 - To respond to user inquiries and support requests
 - To detect, prevent, and fix technical issues
 - To improve app stability, performance, and reliability
+- To analyze aggregated usage trends (such as theme popularity) and improve service quality
 
 We do not sell your personal data.
 
@@ -82,6 +93,7 @@ We share information with trusted third‑party service providers that help us o
 
 - Subscription and purchase management
 - Crash reporting and diagnostics
+- Usage analytics (including Firebase Analytics)
 
 These providers process data only on our behalf and only for the purposes described in this Privacy Policy.
 
